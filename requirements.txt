@@ -1,0 +1,4 @@
+tensorflow>=2.10
+numpy>=1.21
+opencv-python>=4.5
+matplotlib>=3.4

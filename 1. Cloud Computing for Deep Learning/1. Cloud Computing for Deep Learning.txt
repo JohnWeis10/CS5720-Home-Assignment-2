@@ -1,0 +1,17 @@
+Question 1: Cloud Computing for Deep Learning (20 points)
+Cloud computing offers significant advantages for deep learning applications.
+(a) Define elasticity and scalability in the context of cloud computing for deep learning. (10 points)
+(b) Compare AWS SageMaker, Google Vertex AI, and Microsoft Azure Machine Learning Studio in terms of their deep
+ learning capabilities. (10 points)
+
+a: Elasticity in cloud computing for deep learning is the extent for which a system is able to dynamically adjust its
+resource allocation to different demands.
+
+Scalability in cloud computing for deep learning is the systems capacity to handle increasing amounts of storage or 
+use without compromising performance.
+
+b: AWS SageMaker is a fully managed service that automates model tuning and training, and also supports Tensorflow
+and PyTorch. 
+Google Vertex AI is optimized for TPU usage and utilizes Managed Jupyter Notebooks for collaberation 
+on projects. Google Vertex AI also provides automated model training. 
+Microsoft Azure Machine Learning Studio also supports Tensorflow and PyTorch like SageMaster and also supports Scikit-learn.
