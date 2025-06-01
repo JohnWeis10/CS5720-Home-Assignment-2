@@ -170,4 +170,3 @@ venv/
 *.log
 *.env
 *.DS_Store
-*.ipynb
