@@ -12,7 +12,7 @@ CS5720 Home Assignment 2 – Neural Networks and Deep Learning
 ---
 
 ## Assignment Overview  
-This repository contains the implementation for Home Assignment 2 in CS5720 at the University of Central Missouri. The assignment covers foundational concepts in deep learning using TensorFlow, Keras, NumPy, and OpenCV. The tasks involve convolution operations, CNN feature extraction, and implementation of modern deep learning architectures.
+This repository contains the implementation for Home Assignment 2 in CS5720 at the University of Central Missouri. The assignment covers foundational concepts in deep learning using cloud computing platforms and convolutional Neural Networks. The tasks involve convolution operations, CNN feature extraction, and implementation of modern deep learning architectures.
 
 ---
 
